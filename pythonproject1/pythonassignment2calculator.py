@@ -20,7 +20,7 @@ while Aastha is True:
     elif opp == 3:
         Sum = First * Second
         print(Sum)
-    elif opp == 4:1
+    elif opp == 4:
         Sum = First / Second
         print(Sum)
     elif opp == 5:
